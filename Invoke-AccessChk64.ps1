@@ -2904,7 +2904,6 @@ Function Main
 Main
 }
 
-
 # Convert base64 string to byte array
 $PEBytes = [System.Convert]::FromBase64String($accesschk)
  
